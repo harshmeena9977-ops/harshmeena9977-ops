@@ -8,8 +8,8 @@ I build data-driven solutions using **Python, SQL, Power BI, and Django** — fr
 
 📊 **5+ End-to-End Projects** · 📈 **22,000+ Records Analyzed** · 🐍 **Python & SQL**
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh-meena-analyst">
+<p>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
     LinkedIn
   </a>
   &nbsp; • &nbsp;
@@ -19,6 +19,8 @@ I build data-driven solutions using **Python, SQL, Power BI, and Django** — fr
 </p>
 
 </div>
+
+---
 
 <div align="center">
 
@@ -42,59 +44,95 @@ I build data-driven solutions using **Python, SQL, Power BI, and Django** — fr
 </tr>
 </table>
 
-<br>
+</div>
+
+---
+
+<div align="center">
 
 <h3><code>harsh@github ~ $ ./projects.sh</code></h3>
 
 </div>
 
----
+## 🚀 Featured Projects
 
-## 📊 Featured Projects
+<table>
+<tr>
 
-### 🔥 Telecom Churn Analysis & Retention Strategy
+<td width="50%" valign="top">
 
-**Python · SQL · Power BI**
-
-* Analyzed 7,043 customer records
-* Identified high-risk churn segments
-* Built retention-focused KPI dashboard
-* Transformed raw customer data into actionable business insights
-
----
-
-### 📈 Global Superstore Sales Analytics
+### 📉 [Telecom Churn Analysis](https://github.com/harshmeena9977-ops/Telecom-Churn-Analysis)
 
 **Python · SQL · Power BI**
 
-* Analyzed 10,000+ sales transactions
-* Evaluated sales, profit, margin, and regional performance
-* Built an interactive business intelligence dashboard
-* Identified low-profit product segments
+Analyzed **7,043 customer records** to identify churn patterns, high-risk segments, and retention opportunities.
 
----
+**What I built:**
 
-### 🚚 Vendor Performance Optimization
+* Customer churn segmentation
+* SQL-based KPI analysis
+* Retention-focused Power BI dashboard
+* Customer risk analysis
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 [Global Superstore Analytics](https://github.com/harshmeena9977-ops/Superstore-Analytics-Power-BI-Dashboard)
+
+**Python · SQL · Power BI**
+
+Analyzed **10,000+ sales transactions** to evaluate sales performance, profitability, margins, and regional trends.
+
+**What I built:**
+
+* Sales and profit analysis
+* Regional performance tracking
+* Product profitability analysis
+* Interactive Power BI dashboard
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🚚 [Vendor Performance Optimization](https://github.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard)
 
 **SQL · Power BI**
 
-* Analyzed 5,000+ vendor transaction records
-* Measured On-Time Delivery and Defect Rate KPIs
-* Identified vendors contributing to delivery delays
-* Built an operational performance dashboard
+Analyzed **5,000+ vendor transactions** to evaluate operational performance and delivery efficiency.
 
----
+**What I built:**
 
-### 🏥 MediConnect Pro
+* On-Time Delivery KPI
+* Defect Rate analysis
+* Vendor performance comparison
+* Operational performance dashboard
 
-**Python · Django · Django REST Framework · PostgreSQL**
+</td>
 
-Production-ready healthcare appointment booking REST API.
+<td width="50%" valign="top">
 
-* Authentication and user management
-* Healthcare appointment workflow
+### 🏥 [MediConnect Pro](https://github.com/harshmeena9977-ops/mediconnect-pro)
+
+**Python · Django · REST API · PostgreSQL**
+
+Built a production-ready healthcare appointment booking API with backend-focused architecture.
+
+**What I built:**
+
 * RESTful API architecture
-* PostgreSQL database integration
+* Authentication workflows
+* Appointment booking system
+* PostgreSQL integration
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -102,29 +140,94 @@ Production-ready healthcare appointment booking REST API.
 
 <h3><code>harsh@github ~ $ cat skills.txt</code></h3>
 
-### Languages & Analytics
+</div>
 
-`Python` · `SQL` · `Pandas` · `NumPy`
+## 🧰 Technical Stack
 
-### Business Intelligence
+### Programming & Data
 
-`Power BI` · `DAX` · `Power Query` · `Excel`
+`Python` `SQL` `Pandas` `NumPy`
+
+### Analytics & Business Intelligence
+
+`Power BI` `DAX` `Power Query` `Excel`
 
 ### Backend Development
 
-`Django` · `Django REST Framework` · `REST APIs`
+`Django` `Django REST Framework` `REST APIs`
 
-### Databases & Tools
+### Databases
 
-`MySQL` · `PostgreSQL` · `Git` · `GitHub`
+`MySQL` `PostgreSQL`
 
-<br>
+### Tools
 
-<h3><code>harsh@github ~ $ ./connect.sh</code></h3>
+`Git` `GitHub` `Jupyter Notebook` `VS Code`
 
-Open to opportunities in:
+---
 
-**Data Analytics · Business Intelligence · AI/ML · Python Backend Development**
+<div align="center">
+
+<h3><code>harsh@github ~ $ ./what-i-do.sh</code></h3>
 
 </div>
 
+```text
+→ Transform raw data into actionable insights
+→ Build analytical dashboards for business decisions
+→ Write SQL queries for data exploration and KPI analysis
+→ Develop Python-based data workflows
+→ Build REST APIs using Django and Django REST Framework
+→ Explore AI/ML applications for real-world problems
+```
+
+---
+
+<div align="center">
+
+<h3><code>harsh@github ~ $ ./currently-learning.sh</code></h3>
+
+</div>
+
+```text
+[████████████████████] Python
+[██████████████████░░] SQL
+[██████████████████░░] Power BI
+[███████████████░░░░░] Django REST Framework
+[████████████░░░░░░░░] Machine Learning
+[██████████░░░░░░░░░░] Generative AI
+```
+
+---
+
+<div align="center">
+
+<h3><code>harsh@github ~ $ ./career.sh</code></h3>
+
+</div>
+
+I am actively looking for opportunities in:
+
+**Data Analytics · Business Intelligence · AI/ML · Python Backend Development**
+
+I enjoy solving problems where **data, technology, and business decisions intersect**.
+
+---
+
+<div align="center">
+
+<h3><code>harsh@github ~ $ ./connect.sh</code></h3>
+
+📧 **[harshmeena9977@gmail.com](mailto:harshmeena9977@gmail.com)**
+
+💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)**
+
+<br>
+
+⭐ If you find my projects useful, feel free to explore the repositories.
+
+<br>
+
+**BUILDING • LEARNING • SHIPPING**
+
+</div>
