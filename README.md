@@ -8,6 +8,16 @@ I build data-driven solutions using **Python, SQL, Power BI, and Django** — fr
 
 📊 **5+ End-to-End Projects** · 📈 **22,000+ Records Analyzed** · 🐍 **Python & SQL**
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    LinkedIn
+  </a>
+  &nbsp; • &nbsp;
+  <a href="mailto:harshmeena9977@gmail.com">
+    Email
+  </a>
+</p>
+
 </div>
 
 <div align="center">
