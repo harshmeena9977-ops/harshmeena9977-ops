@@ -1,5 +1,17 @@
 <div align="center">
 
+# Hi, I'm Harsh Meena 👋
+
+### Data Analyst • AI/ML Enthusiast • Python Backend Developer
+
+I build data-driven solutions using **Python, SQL, Power BI, and Django** — from analyzing business datasets to developing production-ready REST APIs.
+
+📊 **5+ End-to-End Projects** · 📈 **22,000+ Records Analyzed** · 🐍 **Python & SQL**
+
+</div>
+
+<div align="center">
+
 <h3><code>harsh@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" />
