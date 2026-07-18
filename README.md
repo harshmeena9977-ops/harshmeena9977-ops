@@ -9,7 +9,7 @@ I build data-driven solutions using **Python, SQL, Power BI, and Django** — fr
 📊 **5+ End-to-End Projects** · 📈 **22,000+ Records Analyzed** · 🐍 **Python & SQL**
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/harsh-meena-analyst">
     LinkedIn
   </a>
   &nbsp; • &nbsp;
