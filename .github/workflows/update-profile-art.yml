@@ -14,7 +14,7 @@ permissions:
   contents: write
 
 jobs:
-  update-heatmap:
+  update-profile-art:
 
     runs-on: ubuntu-latest
 
@@ -36,12 +36,24 @@ jobs:
         run: |
           python scripts/fetch_contributions.py
 
-      - name: Generate animated heatmap
+      - name: Generate contribution heatmap
         run: |
           python scripts/render_heatmap_svg.py
 
-      - name: Commit updated contribution graph
+      - name: Generate ASCII profile
+        run: |
+          python scripts/make_ascii_svg.py
+
+      - name: Generate info card
+        run: |
+          python scripts/make_info_card.py
+
+      - name: Commit generated profile art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "chore: refresh contribution graph [skip ci]"
-          file_pattern: "data/contributions.json contrib-heatmap.svg"
+          commit_message: "chore: refresh profile art [skip ci]"
+          file_pattern: |
+            data/contributions.json
+            contrib-heatmap.svg
+            harsh-ascii.svg
+            info-card.svg
