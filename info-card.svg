@@ -5,21 +5,20 @@
 .key { font-family: monospace; font-size: 13px; font-weight: bold; fill: #cbd5e1; }
 .value { font-family: monospace; font-size: 13px; fill: #f8fafc; }
 .line { stroke: #334155; stroke-width: 1; opacity: 0.6; }
-.row { opacity: 0; animation: fadeIn 0.55s ease-out forwards; }
-@keyframes fadeIn { from { opacity: 0; transform: translateX(8px); } to { opacity: 1; transform: translateX(0); } }
+.row { }
 </style>
 <text x="20" y="30" class="title">HARSH@GITHUB</text>
 <text x="20" y="52" class="subtitle">────────────────────────────────────────────</text>
 <text x="20" y="78" class="subtitle">DATA • AI • SOFTWARE</text>
 <line x1="20" y1="92" x2="465" y2="92" class="line"/>
 
-<g class="row" style="animation-delay:0.00s"><text x="20" y="120" class="key">NAME</text><text x="145" y="120" class="value">Harsh Meena</text></g>
-<g class="row" style="animation-delay:0.11s"><text x="20" y="144" class="key">ROLE</text><text x="145" y="144" class="value">Data Analyst</text></g>
-<g class="row" style="animation-delay:0.22s"><text x="20" y="168" class="key">FOCUS</text><text x="145" y="168" class="value">AI/ML + Backend</text></g>
-<g class="row" style="animation-delay:0.33s"><text x="20" y="192" class="key">EDUCATION</text><text x="145" y="192" class="value">B.Tech CSE '25</text></g>
-<g class="row" style="animation-delay:0.55s"><text x="20" y="240" class="key">STACK</text><text x="145" y="240" class="value">Python • SQL • Power BI</text></g>
-<g class="row" style="animation-delay:0.66s"><text x="20" y="264" class="key">BACKEND</text><text x="145" y="264" class="value">Django • REST APIs</text></g>
-<g class="row" style="animation-delay:0.77s"><text x="20" y="288" class="key">ANALYTICS</text><text x="145" y="288" class="value">Pandas • Excel • DAX</text></g>
-<g class="row" style="animation-delay:0.99s"><text x="20" y="336" class="key">PROJECTS</text><text x="145" y="336" class="value">End-to-End Analytics</text></g>
-<g class="row" style="animation-delay:1.10s"><text x="20" y="360" class="key">STATUS</text><text x="145" y="360" class="value">Open to Opportunities</text></g>
+<g class="row"><text x="20" y="120" class="key">NAME</text><text x="145" y="120" class="value">Harsh Meena</text></g>
+<g class="row"><text x="20" y="144" class="key">ROLE</text><text x="145" y="144" class="value">Data Analyst</text></g>
+<g class="row"><text x="20" y="168" class="key">FOCUS</text><text x="145" y="168" class="value">AI/ML + Backend</text></g>
+<g class="row"><text x="20" y="192" class="key">EDUCATION</text><text x="145" y="192" class="value">B.Tech CSE '25</text></g>
+<g class="row"><text x="20" y="240" class="key">STACK</text><text x="145" y="240" class="value">Python • SQL • Power BI</text></g>
+<g class="row"><text x="20" y="264" class="key">BACKEND</text><text x="145" y="264" class="value">Django • REST APIs</text></g>
+<g class="row"><text x="20" y="288" class="key">ANALYTICS</text><text x="145" y="288" class="value">Pandas • Excel • DAX</text></g>
+<g class="row"><text x="20" y="336" class="key">PROJECTS</text><text x="145" y="336" class="value">End-to-End Analytics</text></g>
+<g class="row"><text x="20" y="360" class="key">STATUS</text><text x="145" y="360" class="value">Open to Opportunities</text></g>
 <line x1="20" y1="405" x2="465" y2="405" class="line"/><text x="20" y="425" class="subtitle">STATUS: BUILDING • LEARNING • SHIPPING</text></svg>

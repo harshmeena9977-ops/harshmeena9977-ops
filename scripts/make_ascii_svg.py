@@ -48,8 +48,7 @@ def build_svg(width: int, height: int) -> str:
     lines = []
     lines.append(f'''<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" viewBox="0 0 {width} {height}">
 <style>
-.ascii {{ font-family: monospace; font-size: 11px; fill: #cbd5e1; opacity: 0; animation: typeIn 0.45s ease-out forwards; }}
-@keyframes typeIn {{ from {{ opacity: 0; transform: translateX(-10px); }} to {{ opacity: 1; transform: translateX(0); }} }}
+.ascii {{ font-family: monospace; font-size: 11px; fill: #cbd5e1; }}
 .title {{ font-family: monospace; font-size: 14px; fill: #94a3b8; }}
 </style>
 <text x="20" y="25" class="title">harsh@github ~ $ whoami</text>
@@ -58,9 +57,8 @@ def build_svg(width: int, height: int) -> str:
     start_y = 55
     for index, line in enumerate(ASCII_ART):
         y = start_y + index * 13
-        delay = index * 0.05
         escaped_line = line.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-        lines.append(f'''<text x="20" y="{y}" class="ascii" style="animation-delay:{delay:.2f}s">{escaped_line}</text>''')
+        lines.append(f'''<text x="20" y="{y}" class="ascii">{escaped_line}</text>''')
 
     lines.append("</svg>")
     return "\n".join(lines)

@@ -42,8 +42,7 @@ def build_svg(width: int, height: int) -> str:
 .key {{ font-family: monospace; font-size: 13px; font-weight: bold; fill: #cbd5e1; }}
 .value {{ font-family: monospace; font-size: 13px; fill: #f8fafc; }}
 .line {{ stroke: #334155; stroke-width: 1; opacity: 0.6; }}
-.row {{ opacity: 0; animation: fadeIn 0.55s ease-out forwards; }}
-@keyframes fadeIn {{ from {{ opacity: 0; transform: translateX(8px); }} to {{ opacity: 1; transform: translateX(0); }} }}
+.row {{ }}
 </style>
 <text x="20" y="30" class="title">HARSH@GITHUB</text>
 <text x="20" y="52" class="subtitle">────────────────────────────────────────────</text>
@@ -56,8 +55,7 @@ def build_svg(width: int, height: int) -> str:
         if not key and not value:
             continue
         y = start_y + index * 24
-        delay = index * 0.11
-        lines.append(f'''<g class="row" style="animation-delay:{delay:.2f}s"><text x="20" y="{y}" class="key">{key}</text><text x="145" y="{y}" class="value">{value}</text></g>''')
+        lines.append(f'''<g class="row"><text x="20" y="{y}" class="key">{key}</text><text x="145" y="{y}" class="value">{value}</text></g>''')
 
     lines.append('''<line x1="20" y1="405" x2="465" y2="405" class="line"/><text x="20" y="425" class="subtitle">STATUS: BUILDING • LEARNING • SHIPPING</text></svg>''')
     return "\n".join(lines)
