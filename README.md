@@ -22,6 +22,17 @@ I build data-driven solutions using **Python, SQL, Power BI, and Django** — fr
 
 ---
 
+<!-- 📌 My Best Work (Recommended First Look) -->
+
+## 📌 My Best Work (Recommended First Look)
+
+- [Global-Superstore-Sales-Analysis](https://github.com/harshmeena9977-ops/Global-Superstore-Sales-Analysis) — 10,000+ transactions analyzed; identified top-performing regions and discount impact on margins.
+- [Telecom-Churn-Analysis](https://github.com/harshmeena9977-ops/Telecom-Churn-Analysis) — 7,043 customer records; segmented high-risk groups and highlighted retention opportunities (~26.5% at-risk segment).
+- [yelp-restaurant-success-metrics](https://github.com/harshmeena9977-ops/yelp-restaurant-success-metrics) — 150K+ restaurant records analyzed to surface key engagement and review-driven success metrics.
+- [Hypothesis-Testing-Discount-Impact](https://github.com/harshmeena9977-ops/Hypothesis-Testing-Discount-Impact) — statistical analysis of discount strategies to quantify their effect on sales.
+
+---
+
 <div align="center">
 
 <h3><code>harsh@github ~ $ ./contributions.sh</code></h3>
@@ -144,25 +155,13 @@ Built a production-ready healthcare appointment booking API with backend-focused
 
 ## 🧰 Technical Stack
 
-### Programming & Data
+### Business Intelligence & Analytics
 
-`Python` `SQL` `Pandas` `NumPy`
+`Power BI` `DAX` `Power Query` `SQL` `Storytelling` `KPIs` `Excel`
 
-### Analytics & Business Intelligence
+### Data Science
 
-`Power BI` `DAX` `Power Query` `Excel`
-
-### Backend Development
-
-`Django` `Django REST Framework` `REST APIs`
-
-### Databases
-
-`MySQL` `PostgreSQL`
-
-### Tools
-
-`Git` `GitHub` `Jupyter Notebook` `VS Code`
+`Python` `Pandas` `NumPy` `Statistical Testing` `Scikit-learn`
 
 ---
 
@@ -193,7 +192,7 @@ Built a production-ready healthcare appointment booking API with backend-focused
 [████████████████████] Python
 [██████████████████░░] SQL
 [██████████████████░░] Power BI
-[███████████████░░░░░] Django REST Framework
+[███████████░░░░░░░░░] Django REST Framework
 [████████████░░░░░░░░] Machine Learning
 [██████████░░░░░░░░░░] Generative AI
 ```
@@ -218,9 +217,11 @@ I enjoy solving problems where **data, technology, and business decisions inters
 
 <h3><code>harsh@github ~ $ ./connect.sh</code></h3>
 
+</div>
+
 📧 **[harshmeena9977@gmail.com](mailto:harshmeena9977@gmail.com)**
 
-💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)**
+💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/harsh-meena-analyst)**
 
 <br>
 
@@ -231,3 +232,31 @@ I enjoy solving problems where **data, technology, and business decisions inters
 **BUILDING • LEARNING • SHIPPING**
 
 </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- GitHub stats -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshmeena9977-ops&show_icons=true&theme=default" alt="Harsh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmeena9977-ops&layout=compact" alt="Top languages" />
+</p>
