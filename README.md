@@ -2,11 +2,11 @@
 
 # Hi, I'm Harsh Meena 👋
 
-### Data Analyst • AI/ML Enthusiast • Python Backend Developer
+### Data Analyst • Business Analyst • BI & Reporting
 
-I build data-driven solutions using **Python, SQL, Power BI, and Django** — from analyzing business datasets to developing production-ready REST APIs.
+I turn raw data into decisions using **SQL, Python, Power BI, and DAX** — from exploring business datasets to building recruiter-ready dashboards with real, quantified insights.
 
-📊 **5+ End-to-End Projects** · 📈 **22,000+ Records Analyzed** · 🐍 **Python & SQL**
+📊 **5+ End-to-End Projects** · 📈 **170,000+ Records Analyzed** · 🐍 **SQL, Python & Power BI**
 
 <p>
   <a href="https://www.linkedin.com/in/harsh-meena-analyst">
@@ -22,14 +22,12 @@ I build data-driven solutions using **Python, SQL, Power BI, and Django** — fr
 
 ---
 
-<!-- 📌 My Best Work (Recommended First Look) -->
-
 ## 📌 My Best Work (Recommended First Look)
 
-- [Global-Superstore-Sales-Analysis](https://github.com/harshmeena9977-ops/Global-Superstore-Sales-Analysis) — 10,000+ transactions analyzed; identified top-performing regions and discount impact on margins.
-- [Telecom-Churn-Analysis](https://github.com/harshmeena9977-ops/Telecom-Churn-Analysis) — 7,043 customer records; segmented high-risk groups and highlighted retention opportunities (~26.5% at-risk segment).
-- [yelp-restaurant-success-metrics](https://github.com/harshmeena9977-ops/yelp-restaurant-success-metrics) — 150K+ restaurant records analyzed to surface key engagement and review-driven success metrics.
-- [Hypothesis-Testing-Discount-Impact](https://github.com/harshmeena9977-ops/Hypothesis-Testing-Discount-Impact) — statistical analysis of discount strategies to quantify their effect on sales.
+- [Global-Superstore-Sales-Analysis](https://github.com/harshmeena9977-ops/Global-Superstore-Sales-Analysis) — 10,000+ transactions across 50+ countries; identified a 25% discount threshold that prevents margin erosion.
+- [Telecom-Churn-Analysis](https://github.com/harshmeena9977-ops/Telecom-Churn-Analysis) — 7,043 customer records; built a churn model (85.3% accuracy) and retention strategy for a ~26.5% at-risk segment.
+- [yelp-restaurant-success-metrics](https://github.com/harshmeena9977-ops/yelp-restaurant-success-metrics) — 150K+ restaurants, 2M+ reviews; surfaced a "rating vs. volume" engagement gap and 7 strategic recommendations.
+- [Hypothesis-Testing-Discount-Impact](https://github.com/harshmeena9977-ops/Hypothesis-Testing-Discount-Impact) — statistical validation (paired t-test, Cohen's d) of discount strategy impact on sales.
 
 ---
 
@@ -56,94 +54,6 @@ I build data-driven solutions using **Python, SQL, Power BI, and Django** — fr
 </table>
 
 </div>
-
----
-
-<div align="center">
-
-<h3><code>harsh@github ~ $ ./projects.sh</code></h3>
-
-</div>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 📉 [Telecom Churn Analysis](https://github.com/harshmeena9977-ops/Telecom-Churn-Analysis)
-
-**Python · SQL · Power BI**
-
-Analyzed **7,043 customer records** to identify churn patterns, high-risk segments, and retention opportunities.
-
-**What I built:**
-
-* Customer churn segmentation
-* SQL-based KPI analysis
-* Retention-focused Power BI dashboard
-* Customer risk analysis
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 [Global Superstore Analytics](https://github.com/harshmeena9977-ops/Superstore-Analytics-Power-BI-Dashboard)
-
-**Python · SQL · Power BI**
-
-Analyzed **10,000+ sales transactions** to evaluate sales performance, profitability, margins, and regional trends.
-
-**What I built:**
-
-* Sales and profit analysis
-* Regional performance tracking
-* Product profitability analysis
-* Interactive Power BI dashboard
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### 🚚 [Vendor Performance Optimization](https://github.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard)
-
-**SQL · Power BI**
-
-Analyzed **5,000+ vendor transactions** to evaluate operational performance and delivery efficiency.
-
-**What I built:**
-
-* On-Time Delivery KPI
-* Defect Rate analysis
-* Vendor performance comparison
-* Operational performance dashboard
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏥 [MediConnect Pro](https://github.com/harshmeena9977-ops/mediconnect-pro)
-
-**Python · Django · REST API · PostgreSQL**
-
-Built a production-ready healthcare appointment booking API with backend-focused architecture.
-
-**What I built:**
-
-* RESTful API architecture
-* Authentication workflows
-* Appointment booking system
-* PostgreSQL integration
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -176,8 +86,7 @@ Built a production-ready healthcare appointment booking API with backend-focused
 → Build analytical dashboards for business decisions
 → Write SQL queries for data exploration and KPI analysis
 → Develop Python-based data workflows
-→ Build REST APIs using Django and Django REST Framework
-→ Explore AI/ML applications for real-world problems
+→ Apply statistical testing to validate business decisions
 ```
 
 ---
@@ -189,12 +98,12 @@ Built a production-ready healthcare appointment booking API with backend-focused
 </div>
 
 ```text
-[████████████████████] Python
-[██████████████████░░] SQL
+[████████████████████] SQL
 [██████████████████░░] Power BI
-[███████████░░░░░░░░░] Django REST Framework
-[████████████░░░░░░░░] Machine Learning
-[██████████░░░░░░░░░░] Generative AI
+[██████████████████░░] Python
+[████████████████░░░░] DAX & Data Modeling
+[████████████░░░░░░░░] Statistical Analysis
+[███████████░░░░░░░░░] Machine Learning
 ```
 
 ---
@@ -207,9 +116,9 @@ Built a production-ready healthcare appointment booking API with backend-focused
 
 I am actively looking for opportunities in:
 
-**Data Analytics · Business Intelligence · AI/ML · Python Backend Development**
+**Data Analytics · Business Analysis · Business Intelligence · MIS & Reporting**
 
-I enjoy solving problems where **data, technology, and business decisions intersect**.
+I enjoy solving problems where **data, business context, and clear communication intersect**.
 
 ---
 
@@ -232,27 +141,6 @@ I enjoy solving problems where **data, technology, and business decisions inters
 **BUILDING • LEARNING • SHIPPING**
 
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- GitHub stats -->
 
