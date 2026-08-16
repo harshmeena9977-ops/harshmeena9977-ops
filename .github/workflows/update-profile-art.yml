@@ -1,53 +1,33 @@
 name: Update Profile Art
-
 on:
-  schedule:
-    - cron: "17 6 * * *"
-
   workflow_dispatch:
-
-  push:
-    branches:
-      - main
-
 permissions:
   contents: write
-
 jobs:
   update-profile-art:
-
     runs-on: ubuntu-latest
-
     steps:
-
       - name: Checkout repository
         uses: actions/checkout@v4
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Install dependencies
         run: |
           pip install requests beautifulsoup4
-
       - name: Fetch GitHub contributions
         run: |
           python scripts/fetch_contributions.py
-
       - name: Generate contribution heatmap
         run: |
           python scripts/render_heatmap_svg.py
-
       - name: Generate ASCII profile
         run: |
           python scripts/make_ascii_svg.py
-
       - name: Generate info card
         run: |
           python scripts/make_info_card.py
-
       - name: Commit generated profile art
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
