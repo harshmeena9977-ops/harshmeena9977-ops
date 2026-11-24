@@ -1,21 +1,15 @@
-from pathlib import Path
+    from pathlib import Path
 
 WIDTH = 490
 HEIGHT = 430
 
 lines = [
     ("NAME", "Harsh Meena"),
-    ("ROLE", "Data Analyst"),
-    ("FOCUS", "AI/ML + Backend"),
-    ("EDUCATION", "B.Tech CSE '25"),
-    ("", ""),
-    ("STACK", "Python • SQL • Power BI"),
-    ("BACKEND", "Django • REST APIs"),
-    ("ANALYTICS", "Pandas • Excel • DAX"),
-    ("", ""),
-    ("PROJECTS", "5+ End-to-End"),
-    ("DATA", "22,000+ Records"),
-    ("STATUS", "Open to Opportunities"),
+    ("ROLE", "Data Analyst | BI Analyst"),
+    ("FOCUS", "SQL • Power BI • Python"),
+    ("TOOLS", "Excel • pandas • DAX"),
+    ("PROJECTS", "Independent practice work"),
+    ("STATUS", "Building analytics projects"),
 ]
 
 svg = []
