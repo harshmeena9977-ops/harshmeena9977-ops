@@ -1,150 +1,52 @@
 <div align="center">
 
-# Hi, I'm Harsh Meena 👋
+# Harsh Meena
 
-### Data Analyst • Business Analyst • BI & Reporting
+### Aspiring Data Analyst | BI Analyst
 
-I turn raw data into decisions using **SQL, Python, Power BI, and DAX** — from exploring business datasets to building recruiter-ready dashboards with real, quantified insights.
+I build practical analytics projects with SQL, Python, Power BI, and Excel. My analytics repositories are independent practice work using public, benchmark, or synthetic datasets; they are not client engagements.
 
-📊 **5+ End-to-End Projects** · 📈 **170,000+ Records Analyzed** · 🐍 **SQL, Python & Power BI**
-
-<p>
-  <a href="https://www.linkedin.com/in/harsh-meena-analyst">
-    LinkedIn
-  </a>
-  &nbsp; • &nbsp;
-  <a href="mailto:harshmeena9977@gmail.com">
-    Email
-  </a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/harsh-meena-analyst) ·
+[Email](mailto:harshmeena9977@gmail.com) ·
+[Portfolio](https://harshmeena9977-ops.github.io/)
 
 </div>
 
 ---
 
-## 📌 My Best Work (Recommended First Look)
+## Current focus
 
-- [Global-Superstore-Sales-Analysis](https://github.com/harshmeena9977-ops/Global-Superstore-Sales-Analysis) — 10,000+ transactions across 50+ countries; identified a 25% discount threshold that prevents margin erosion.
-- [Telecom-Churn-Analysis](https://github.com/harshmeena9977-ops/Telecom-Churn-Analysis) — 7,043 customer records; built a churn model (85.3% accuracy) and retention strategy for a ~26.5% at-risk segment.
-- [yelp-restaurant-success-metrics](https://github.com/harshmeena9977-ops/yelp-restaurant-success-metrics) — 150K+ restaurants, 2M+ reviews; surfaced a "rating vs. volume" engagement gap and 7 strategic recommendations.
-- [Hypothesis-Testing-Discount-Impact](https://github.com/harshmeena9977-ops/Hypothesis-Testing-Discount-Impact) — statistical validation (paired t-test, Cohen's d) of discount strategy impact on sales.
+I’m preparing an end-to-end analytics project around a current business workflow. The project brief, data provenance, analysis, dashboard, and evaluation will be published after they are ready to review.
 
----
+## Practice projects
 
-<div align="center">
+### BI and dashboards
 
-<h3><code>harsh@github ~ $ ./contributions.sh</code></h3>
+- [Workforce Attrition & Retention Analytics](https://github.com/harshmeena9977-ops/workforce-attrition-retention-analytics) — Power BI practice project using a public HR benchmark dataset.
+- [Global Superstore Sales Analysis](https://github.com/harshmeena9977-ops/Global-Superstore-Sales-Analysis) — retail SQL/Python/Power BI practice; documented results are still being reconciled.
+- [Superstore Power BI Dashboard](https://github.com/harshmeena9977-ops/Superstore-Analytics-Power-BI-Dashboard) — Power BI report practice.
+- [Personal Finance Dashboard](https://github.com/harshmeena9977-ops/Personal-Finance-Dashboard) — Excel budget and expense tracking practice.
+- [Supply Chain Dashboard](https://github.com/harshmeena9977-ops/Samsung-Supply-Chain-Analytics-Dashboard) — independent dashboard exercise; not affiliated with Samsung.
 
-<img src="./contrib-heatmap.svg" width="860" />
+### Python, statistics, and interactive analysis
 
-<br><br>
+- [Hospital Patient Segmentation](https://github.com/harshmeena9977-ops/hospital-patient-segmentation-analytics) — Yuvaintern internship task project; no certificate is claimed.
+- [S&P 500 Streamlit Dashboard](https://github.com/harshmeena9977-ops/sp500-financial-analytics) — interactive dashboard over historical 2014–2017 market data; not a real-time market feed or AI agent.
+- [Hypothesis Testing: Discount Impact](https://github.com/harshmeena9977-ops/Hypothesis-Testing-Discount-Impact) — small paired-test practice project.
+- [Yelp Restaurant Metrics](https://github.com/harshmeena9977-ops/yelp-restaurant-success-metrics) — public-dataset analysis practice.
 
-<h3><code>harsh@github ~ $ whoami</code></h3>
+## Supporting projects
 
-<table>
-<tr>
-<td valign="top">
-<img src="./harsh-ascii.svg" width="370" />
-</td>
+- [MediConnect Pro](https://github.com/harshmeena9977-ops/mediconnect-pro) — Django REST API side project.
 
-<td valign="top">
-<img src="./info-card.svg" width="490" />
-</td>
-</tr>
-</table>
+## Tools shown in my repositories
 
-</div>
+**Analytics:** SQL, SQLite, Python, pandas, scikit-learn, Excel  
+**BI and apps:** Power BI, DAX, Power Query, Streamlit, Plotly  
+**Backend side project:** Django REST Framework
 
----
+## Contact
 
-<div align="center">
-
-<h3><code>harsh@github ~ $ cat skills.txt</code></h3>
-
-</div>
-
-## 🧰 Technical Stack
-
-### Business Intelligence & Analytics
-
-`Power BI` `DAX` `Power Query` `SQL` `Storytelling` `KPIs` `Excel`
-
-### Data Science
-
-`Python` `Pandas` `NumPy` `Statistical Testing` `Scikit-learn`
-
----
-
-<div align="center">
-
-<h3><code>harsh@github ~ $ ./what-i-do.sh</code></h3>
-
-</div>
-
-```text
-→ Transform raw data into actionable insights
-→ Build analytical dashboards for business decisions
-→ Write SQL queries for data exploration and KPI analysis
-→ Develop Python-based data workflows
-→ Apply statistical testing to validate business decisions
-```
-
----
-
-<div align="center">
-
-<h3><code>harsh@github ~ $ ./currently-learning.sh</code></h3>
-
-</div>
-
-```text
-[████████████████████] SQL
-[██████████████████░░] Power BI
-[██████████████████░░] Python
-[████████████████░░░░] DAX & Data Modeling
-[████████████░░░░░░░░] Statistical Analysis
-[███████████░░░░░░░░░] Machine Learning
-```
-
----
-
-<div align="center">
-
-<h3><code>harsh@github ~ $ ./career.sh</code></h3>
-
-</div>
-
-I am actively looking for opportunities in:
-
-**Data Analytics · Business Analysis · Business Intelligence · MIS & Reporting**
-
-I enjoy solving problems where **data, business context, and clear communication intersect**.
-
----
-
-<div align="center">
-
-<h3><code>harsh@github ~ $ ./connect.sh</code></h3>
-
-</div>
-
-📧 **[harshmeena9977@gmail.com](mailto:harshmeena9977@gmail.com)**
-
-💼 **[Connect with me on LinkedIn](https://www.linkedin.com/in/harsh-meena-analyst)**
-
-<br>
-
-⭐ If you find my projects useful, feel free to explore the repositories.
-
-<br>
-
-**BUILDING • LEARNING • SHIPPING**
-
-</div>
-
-<!-- GitHub stats -->
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshmeena9977-ops&show_icons=true&theme=default" alt="Harsh's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshmeena9977-ops&layout=compact" alt="Top languages" />
-</p>
+- Email: [harshmeena9977@gmail.com](mailto:harshmeena9977@gmail.com)
+- LinkedIn: [harsh-meena-analyst](https://www.linkedin.com/in/harsh-meena-analyst)
+- Portfolio: [harshmeena9977-ops.github.io](https://harshmeena9977-ops.github.io/)
