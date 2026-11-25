@@ -12,6 +12,15 @@ I build practical analytics projects with SQL, Python, Power BI, and Excel. My a
 
 </div>
 
+<p align="center">
+  <img src="contrib-heatmap.svg" alt="GitHub contribution heatmap" width="860" />
+</p>
+
+<p align="center">
+  <img src="harsh-ascii.svg" alt="ASCII profile illustration" width="370" />
+  <img src="info-card.svg" alt="Harsh Meena profile information card" width="490" />
+</p>
+
 ---
 
 ## Current focus
