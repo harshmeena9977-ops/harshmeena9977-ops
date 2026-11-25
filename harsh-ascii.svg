@@ -1,0 +1,236 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+width="370"
+height="430"
+viewBox="0 0 370 430">
+
+<style>
+.ascii {
+    font-family: monospace;
+    font-size: 11px;
+    fill: #8b949e;
+    opacity: 0;
+    animation: typeIn 0.5s ease-out forwards;
+}
+
+@keyframes typeIn {
+    from {
+        opacity: 0;
+        transform: translateX(-10px);
+    }
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+.title {
+    font-family: monospace;
+    font-size: 14px;
+    fill: #8b949e;
+}
+</style>
+
+<text x="20" y="25" class="title">
+harsh@github ~ $ whoami
+</text>
+
+<text
+    x="20"
+    y="55"
+    class="ascii"
+    style="animation-delay:0.00s">
+                     .-''''-.
+</text>
+
+<text
+    x="20"
+    y="69"
+    class="ascii"
+    style="animation-delay:0.08s">
+                  .-'        '-.
+</text>
+
+<text
+    x="20"
+    y="83"
+    class="ascii"
+    style="animation-delay:0.16s">
+                .'              '.
+</text>
+
+<text
+    x="20"
+    y="97"
+    class="ascii"
+    style="animation-delay:0.24s">
+               /                  \
+</text>
+
+<text
+    x="20"
+    y="111"
+    class="ascii"
+    style="animation-delay:0.32s">
+              /     .------.       \
+</text>
+
+<text
+    x="20"
+    y="125"
+    class="ascii"
+    style="animation-delay:0.40s">
+             |     /  .--.  \       |
+</text>
+
+<text
+    x="20"
+    y="139"
+    class="ascii"
+    style="animation-delay:0.48s">
+             |    |  (    )  |      |
+</text>
+
+<text
+    x="20"
+    y="153"
+    class="ascii"
+    style="animation-delay:0.56s">
+             |    |   '--'   |      |
+</text>
+
+<text
+    x="20"
+    y="167"
+    class="ascii"
+    style="animation-delay:0.64s">
+             |     \        /       |
+</text>
+
+<text
+    x="20"
+    y="181"
+    class="ascii"
+    style="animation-delay:0.72s">
+              \     '------'       /
+</text>
+
+<text
+    x="20"
+    y="195"
+    class="ascii"
+    style="animation-delay:0.80s">
+               '.                .'
+</text>
+
+<text
+    x="20"
+    y="209"
+    class="ascii"
+    style="animation-delay:0.88s">
+                 '-.          .-'
+</text>
+
+<text
+    x="20"
+    y="223"
+    class="ascii"
+    style="animation-delay:0.96s">
+                    '--------'
+</text>
+
+<text
+    x="20"
+    y="237"
+    class="ascii"
+    style="animation-delay:1.04s">
+    
+</text>
+
+<text
+    x="20"
+    y="251"
+    class="ascii"
+    style="animation-delay:1.12s">
+                  .-========-.
+</text>
+
+<text
+    x="20"
+    y="265"
+    class="ascii"
+    style="animation-delay:1.20s">
+                 /            \
+</text>
+
+<text
+    x="20"
+    y="279"
+    class="ascii"
+    style="animation-delay:1.28s">
+                /              \
+</text>
+
+<text
+    x="20"
+    y="293"
+    class="ascii"
+    style="animation-delay:1.36s">
+               |   DATA        |
+</text>
+
+<text
+    x="20"
+    y="307"
+    class="ascii"
+    style="animation-delay:1.44s">
+               |   ANALYST     |
+</text>
+
+<text
+    x="20"
+    y="321"
+    class="ascii"
+    style="animation-delay:1.52s">
+               |               |
+</text>
+
+<text
+    x="20"
+    y="335"
+    class="ascii"
+    style="animation-delay:1.60s">
+               |   PYTHON      |
+</text>
+
+<text
+    x="20"
+    y="349"
+    class="ascii"
+    style="animation-delay:1.68s">
+               |   SQL         |
+</text>
+
+<text
+    x="20"
+    y="363"
+    class="ascii"
+    style="animation-delay:1.76s">
+               |   POWER BI    |
+</text>
+
+<text
+    x="20"
+    y="377"
+    class="ascii"
+    style="animation-delay:1.84s">
+                \              /
+</text>
+
+<text
+    x="20"
+    y="391"
+    class="ascii"
+    style="animation-delay:1.92s">
+                 '------------'
+</text>
+</svg>
